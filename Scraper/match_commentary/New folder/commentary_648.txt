@@ -1,0 +1,22 @@
+Data
+1.6;4;Aftab to Reardon, FOUR runs;
+1.5;?;Aftab to Reardon, no run;
+1.4;6;Aftab to Reardon, SIX runs;
+1.4;2nb;Aftab to O'Brien, (no ball) 1 run;
+1.3;4;Aftab to O'Brien, FOUR runs;
+1.2;W;Aftab to Buchanan, OUT;Michael Buchanan b Aftab Ahmed 7 (3b 0x4 1x6) SR: 233.33;
+1.1;4;Aftab to Buchanan, FOUR runs;
+0.6;1;Nazmul to Buchanan, 1 run;
+0.5;1;Nazmul to Reardon, 1 run;
+0.4;?;Nazmul to Reardon, no run;
+0.3;2;Nazmul to Reardon, 2 runs;
+0.2;W;Nazmul to Johnston, OUT;Matt Johnston c ?Fernando b Nazmul Hossain 0 (1b 0x4 0x6) SR: 0;
+0.1;1;Nazmul to Buchanan, 1 run;
+
+ Innings Start
+
+ Innings Start
+Sobers Pool, Kowloon, Oct 27 2007, Hong Kong International Cricket Sixes
+64
+68/2
+Player of the match is 

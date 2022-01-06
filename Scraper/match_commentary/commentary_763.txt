@@ -1,0 +1,95 @@
+Data
+49.6;1;Flintoff to McGrath, 1 run;
+49.5;?;Flintoff to McGrath, no run;
+49.4;1;Flintoff to Lee, 1 run;
+49.3;1;Flintoff to McGrath, 1 run;
+49.2;?;Flintoff to McGrath, no run;
+49.1;?;Flintoff to McGrath, no run;
+48.6;4;Gough to Lee, FOUR runs;
+48.5;W;Gough to Gillespie, OUT;Jason Gillespie c Pietersen b Gough 1 (6m 2b 0x4 0x6) SR: 50;
+48.4;1;Gough to Lee, 1 run;
+48.3;4;Gough to Lee, FOUR runs;
+48.2;?;Gough to Lee, no run;
+48.1;2;Gough to Lee, 2 runs;
+3.6;?;Jones to Hayden, no run;
+3.5;1;Jones to Gilchrist, 1 run;
+3.5;1w;Jones to Gilchrist, 1 wide;
+3.4;1;Jones to Hayden, 1 run;
+3.3;1;Jones to Gilchrist, 1 run;
+3.2;?;Jones to Gilchrist, no run;
+3.1;?;Jones to Gilchrist, no run;
+2.6;4;Gough to Hayden, FOUR runs;
+2.5;4;Gough to Hayden, FOUR runs;
+2.4;?;Gough to Hayden, no run;
+2.3;1;Gough to Gilchrist, 1 run;
+2.2;?;Gough to Gilchrist, no run;
+2.1;?;Gough to Gilchrist, no run;
+47.6;1;Flintoff to Lee, 1 run;
+47.5;1;Flintoff to Gillespie, 1 run;
+47.4;1;Flintoff to Lee, 1 run;
+47.3;?;Flintoff to Lee, no run;
+47.2;?;Flintoff to Lee, no run;
+47.1;2;Flintoff to Lee, 2 runs;
+46.6;W;Gough to Hogg, OUT;Brad Hogg c ?Jones b Gough 2 (9m 6b 0x4 0x6) SR: 33.33;
+46.5;1;Gough to Lee, 1 run;
+46.4;4;Gough to Lee, FOUR runs;
+46.3;1;Gough to Hogg, 1 run;
+46.2;?;Gough to Hogg, no run;
+46.1;?;Gough to Hogg, no run;
+1.6;?;Jones to Hayden, no run;
+1.5;4;Jones to Hayden, FOUR runs;
+1.4;?;Jones to Hayden, no run;
+1.3;?;Jones to Hayden, no run;
+1.2;?;Jones to Hayden, no run;
+1.1;?;Jones to Hayden, no run;
+0.6;4;Gough to Gilchrist, 4 runs;
+0.5;4;Gough to Gilchrist, FOUR runs;
+0.4;1;Gough to Hayden, 1 run;
+0.3;1;Gough to Gilchrist, 1 run;
+0.2;4;Gough to Gilchrist, FOUR runs;
+0.1;?;Gough to Gilchrist, no run;
+
+ Innings Start
+5.6;W;McGrath to Strauss, OUT;Andrew Strauss c Gillespie b McGrath 25 (25m 18b 5x4 0x6) SR: 138.88;
+5.5;4;McGrath to Strauss, FOUR runs;
+5.4;?;McGrath to Strauss, no run;
+5.3;?;McGrath to Strauss, no run;
+5.2;1;McGrath to ME Trescothick, 1 run;
+5.1;?;McGrath to ME Trescothick, no run;
+4.6;1;Lee to ME Trescothick, 1 run;
+4.5;3;Lee to Strauss, 3 runs;
+4.4;1;Lee to ME Trescothick, 1 run;
+4.3;2;Lee to ME Trescothick, 2 runs;
+4.2;?;Lee to ME Trescothick, no run;
+4.1;?;Lee to ME Trescothick, no run;
+3.6;4;McGrath to Strauss, FOUR runs;
+3.5;4;McGrath to Strauss, FOUR runs;
+3.4;?;McGrath to Strauss, no run;
+3.3;4;McGrath to Strauss, FOUR runs;
+3.2;?;McGrath to Strauss, no run;
+3.2;5nb;McGrath to Strauss, (no ball) FOUR runs;
+3.1;?;McGrath to Strauss, no run;
+2.6;?;Lee to ME Trescothick, no run;
+2.5;?;Lee to ME Trescothick, no run;
+2.4;?;Lee to ME Trescothick, no run;
+2.3;4;Lee to ME Trescothick, FOUR runs;
+2.2;?;Lee to ME Trescothick, no run;
+2.1;1;Lee to Strauss, 1 run;
+1.6;?;McGrath to ME Trescothick, no run;
+1.5;1;McGrath to Strauss, 1 run;
+1.4;1;McGrath to ME Trescothick, 1 run;
+1.3;?;McGrath to ME Trescothick, no run;
+1.2;?;McGrath to ME Trescothick, no run;
+1.1;?;McGrath to ME Trescothick, no run;
+0.6;?;Lee to Strauss, no run;
+0.5;?;Lee to Strauss, no run;
+0.4;?;Lee to Strauss, no run;
+0.3;?;Lee to Strauss, no run;
+0.2;1;Lee to ME Trescothick, 1 run;
+0.1;?;Lee to ME Trescothick, no run;
+
+ Innings Start
+8th Match (D/N), Birmingham, Jun 28 2005, NatWest Series
+261/9
+37/1
+Player of the match is 

@@ -1,0 +1,159 @@
+Data
+Well, that was relentless stuff. West Indies need 98, and I need an ice-bath for my fingertips. Back in five
+10.6;1;Bravo to Watson, 1 run Watson wound himself up for the big strike, but succeeds only in whisking the ball round the corner for one more run;
+10.5;2;Bravo to Watson, 2 runs slower ball again, swatted back down the ground, and long-on fields;
+10.4;?;Bravo to Watson, no run a swing and a miss. Quite possibly the first of the innings;
+10.3;?;Bravo to Watson, no run a pre-meditated paddle-sweep, so Bravo bounces it over his shoulder. Good bowling;
+10.2;1;Bravo to White, 1 run outside leg stump, flicked down to fine leg;
+10.1;2;Bravo to White, 2 runs low full toss, clipped out to midwicket, a tight call for the second run, but they make it comfortably in the end;
+9.6;6;Roach to Watson, SIX runs not such a good bouncer. Short again, and Watson was waiting this time. Sweet connection, into the Hall and Griffiths stand at midwicket;
+9.5;?;Roach to Watson, no run bouncer, and a good one too. Close to a wide, but well directed;
+9.4;1;Roach to White, 1 run flogged with even more power into the covers, but picked up by the sweeper;
+9.3;4;Roach to White, FOUR runs not a bad ball at all, slow and full, but White gets under it and times it to perfection, inside-out, over cover;
+9.2;1;Roach to Watson, 1 run low full toss, shovelled out to midwicket;
+9.1;1;Roach to White, 1 run floated onto a good length, White opens his shoulders for the drive, but can't time it as the ball plugs in front of long-off;
+8.6;4;Bravo to Watson, FOUR runs aiming for the blockhole again, but swung lustily into the gap at deep midwicket, where it neatly bissects two fielders;
+8.5;1;Bravo to White, 1 run an agonisingly slow slower ball, eventually cut behind square;
+8.4;1;Bravo to Watson, 1 run angled into the blockhole from around the wicket. Driven down the ground;
+8.3;?;Bravo to Watson, no run flicked straight to square leg, thoughts about a single, but the throw comes in to persuade him otherwise;
+8.2;W;Bravo to Hussey, OUT another slower ball, and Hussey is onto that far too quickly. A spiralling top-edge and Perkins at midwicket judges it well;David Hussey c Perkins b Bravo 0 (3m 2b 0x4 0x6) SR: 0;
+8.1;?;Bravo to Hussey, no run slower ball from the skipper. Well bowled;
+7.6;?;Roach to Watson, no run tucked behind square;
+7.5;W;Roach to Marsh, OUT what a catch! That was short and swung out to deep midwicket. Marshall, running towards the rope, leaps, takes cleanly, then tiptoes along the boundary rope, just inches inside. He keeps his balance and that's a key breakthrough;Shaun Marsh c Marshall b Roach 29 (44m 22b 1x4 2x6) SR: 131.81;
+7.4;6;Roach to Marsh, SIX runs that's vast - clean as a whistle over long-on. TImed to perfection and that carries 98 metres, apparently;
+7.3;?;Roach to Marsh, no run smashed back down the ground, and Roach instinctively sticks out a mitt, and saves four runs;
+7.2;1lb;Roach to Watson, 1 leg bye a touch too straight, but Watson misses out with a leg-side flick;
+7.1;?;Roach to Watson, no run very decent pace, outside off stump, and Watson is beaten;
+6.6;4;Edwards to Marsh, FOUR runs in the slot and mowed across the line. Deep midwicket can't cut that off;
+6.5;?;Edwards to Marsh, no run slower-ball bouncer. Quite a cunning plan, that one;
+6.4;1;Edwards to Watson, 1 run attempted yorker, a hint of inswing, and swished out to midwicket;
+6.3;1;Edwards to Marsh, 1 run full toss, clobbered over cover, and picked up in the deep;
+6.2;1;Edwards to Watson, 1 run short and on the pads, Benn at short backward point fields well, but winds himself in the process;
+6.1;1;Edwards to Marsh, 1 run clipped off the pads;
+5.6;W;Roach to Ronchi, OUT in the slot and slapped down the ground, but not enough bat on it, and the home boy has a debut wicket!;Luke Ronchi c Taylor b Roach 36 (33m 22b 6x4 1x6) SR: 163.63;
+5.5;?;Roach to Ronchi, no run excellent slower ball, just kept out at the last minute;
+5.4;2;Roach to Ronchi, 2 runs had to scamper as the throw came in from the covers, but safely home;
+5.3;4;Roach to Ronchi, FOUR runs too much width, and slashed past backward point. Ronchi gave himself room, but reached it well in the end;
+5.2;1;Roach to Marsh, 1 run pummelled down the ground;
+5.1;1;Roach to Ronchi, 1 run dropped - superb bounce and carry, Ronchi fended it through to the keeper, who muffed the chance. It is getting very dark;
+5.1;2nb;Roach to Marsh, (no ball) 1 run beamer! And a nasty one too. Marsh swings in self-defence, and the ball flies down to third man off his gloves;
+4.6;1;Edwards to Marsh, 1 run fast and straight, defended into the covers for a single. Good over;
+4.5;1lb;Edwards to Ronchi, 1 leg bye Ronchi backed away, so Edwards followed him, good bowling;
+4.4;?;Edwards to Ronchi, no run full length and inswinging, a massive mow from Ronchi, but no connection;
+4.3;1;Edwards to Marsh, 1 run driven firm and straight, Perkins the debutant fields at long-on;
+4.2;2;Edwards to Marsh, 2 runs swished out to deep midwicket, and a cheeky second run as Pollard's throw goes wide;
+4.1;?;Edwards to Marsh, no run full toss, outside off stump. Not a bad delivery in the circumstances;
+3.6;4;Benn to Ronchi, FOUR runs down on one knee, and slapped violently through midwicket. West Indies' field placings are all at sea, and Australia are taking ruthless advantage;
+3.5;1;Benn to Marsh, 1 run shovelled into the covers;
+3.4;1;Benn to Ronchi, 1 run driven hard and straight, Benn gets a finger on the ball, but still a single;
+3.3;4;Benn to Ronchi, FOUR runs cut, and cut hard, whistles through point;
+3.2;4;Benn to Ronchi, FOUR runs smacked in the air, over mid-off, who can't quite reach as he leaps. It looks as though Bravo is unaware that the Powerplays are over;
+3.2;1w;Benn to Ronchi, 1 wide down the leg side;
+3.1;1;Benn to Marsh, 1 run full toss, and that's a bit of a let-off. Marsh can't time his slog, and midwicket fields;
+2.6;?;Taylor to Ronchi, no run another slower ball, and that's an excellent comeback. Ronchi swings into a slog sweep, but the ball is through to the keeper;
+2.5;?;Taylor to Ronchi, no run short and climbing off the pitch, Ronchi attempted to steer that over third man, but didn't make contact. For once;
+2.4;?;Taylor to Ronchi, no run slower ball, yorker length, big appeal, but just drifting down. Good riposte;
+2.3;4;Taylor to Ronchi, FOUR runs opens the shoulders, and strikes through the line like a golfer. Didn't come off the middle of the bat, but a one-bounce four will do nicely;
+2.2;4;Taylor to Ronchi, FOUR runs inside-out clobber over the covers. Dramatic striking, and the runs are flowing;
+2.1;6;Taylor to Ronchi, SIX runs incredible shot! He backed away, hung his bat out as if he was a scared tailender, and yet timed it so sweetly that it flew all the way over backward point! Remarkable;
+1.6;1;Benn to Ronchi, 1 run good end to a tight and tidy over;
+1.5;1;Benn to Marsh, 1 run walloped into the covers, and that was technically a chance. But it was actually three runs saved. Bravo got his fingertips to it, goalkeeper style, brave effort;
+1.4;1;Benn to Ronchi, 1 run clipped into the leg side, and Ronchi's off the mark;
+1.3;?;Benn to Ronchi, no run tweaking past off stump again, excellent bounce and Ramdin leaps as he takes;
+1.2;?;Benn to Ronchi, no run lovely bite and bounce, Benn uses his height well, and Ramdin half appeals for a stumping;
+1.1;?;Benn to Ronchi, no run good length to start, on off stump and pushed into the covers;
+0.6;6;Taylor to Marsh, SIX runs in the slot, and thumped majestically down the ground for a maximum. Cracking stroke. He looked all at sea for much of that over, but he's still taken it for nine runs;
+0.6;1w;Taylor to Marsh, 1 wide down the legside, well gathered, but that's an easy call for the umpire;
+0.5;?;Taylor to Marsh, no run more sharp movement, zipping into the left-hander, and Taylor nods approvingly in his followthrough;
+0.4;2;Taylor to Marsh, 2 runs full length, and swished chancily into the leg-side. Marsh gets enough bat on it to clear the infield, and he's off the mark;
+0.3;?;Taylor to Marsh, no run quick and jagging. Lovely bowling, outside off, nipping off the moist deck, and Marsh is well beaten;
+0.2;?;Taylor to Marsh, no run good sharp length, jagging into the splice. Defended to the gully;
+0.1;?;Taylor to Marsh, no run a slower ball to start, outside off stump, and through to the keeper;
+
+4.20 Right, we have a match. The players are out in the middle. Here we go.
+4.10pm We have a possible match. If there is no more rain, play will get underway in 11 minutes time, and it will be 11 overs a side.
+4.05pm There is a glimmer of a prospect of play. The umpires, Billy Doctrove and Clyde Duncan, are sizing up the conditions and the rain has undoubtedly stopped. Watch this space. We have another hour and five minutes before the cut-off of 5.10pm local time ...
+3.10pm Apparently there had been a brief intention to get underway right now ... but the rain is back, and so now we won't be starting for a little while longer. It's a good ground for drainage at the new-look Kensington Oval, so there is still some hope of a match of some length. Let's see what happens. The latest we can get underway is 5.10pm, which would be long enough for a five-over thrash.
+2.55pm No news to bring you, alas. The rain seems to have settled in, and there's no prospect of an imminent start. Oh well.
+2.30pm Well, we were meant to be getting underway now, but instead they are bringing on yet more covers. This is not very promising in the slightest, I'm afraid.
+2.20pm And the covers are back on, sadly. A big blue tarpaulin has been hauled back over the square, so I imagine the start will be pushed back by another few minutes. The rain is not falling just yet, so that's encouraging. In fact, it is now drizzling lightly, which is not so encouraging.
+2.15pm Some movement down on the edge of the pitch, worryingly. Nothing is happening just yet, but the groundstaff look suspiciously ready to pull on the covers. Hopefully the rains will hold off, and we can get underway as soon as possible.
+2.10pm Here are the two teams, and there are six Twenty20 debutants on show, four for West Indies and two for Australia:
+West Indies 1 Xavier Marshall, 2 William Perkins, 3 Andre Fletcher, 4 Dwayne Bravo (capt), 5 Kieron Pollard, 6 Denesh Ramdin (wk), 7 Darren Sammy, 8 Jerome Taylor, 9 Sulieman Benn, 10 Kemar Roach, 11 Fidel Edwards.
+Australia 1 Shaun Marsh, 2 Michael Clarke, 3 Ricky Ponting (capt), 4 Shane Watson, 5 Michael Hussey, 6 David Hussey, 7 Cameron White, 8 James Hopes, 9 Luke Ronchi (wk), 10 Brett Lee, 11 Mitchell Johnson.
+2pm West Indies win the toss and bowl. Ricky Ponting called incorrectly, but he's pretty happy to get a chance to bat first. The start has been pushed back by half an hour, but they are still intending to play the full 20 overs.
+Dwayne Bravo will captain a new-look West Indies team because Ramnaresh Sarwan and Chris Gayle both have groin injuries. The full team to follow shortly.
+Hello and welcome to Cricinfo's coverage of the one-off Twenty20 international between West Indies and Australia in Barbados. Play was due to get underway at 2pm local time (6pm GMT), but unfortunately it is raining in Bridgetown and so the start, at best, will be delayed. More news as and when we get it.
+ Innings Start
+A sensational run-chase from West Indies. It is getting as dark as the World Cup final now, but Bravo saw that like a beachball. That's the first Twenty20 international in the Caribbean, and what a marker it's laid down. England might not fancy their chances of those Stanford millions after all ...
+A brilliant momentum-seizing 36 from 15 balls from Xavier Marshall set the tone of this run-chase. Once he was gone, it was just a run a ball that West Indies needed. Routine stuff in this day and age.
+Thanks for your patience, it was worth it in the end. I've been Andrew Miller, goodnight.
+9.1;6;Watson to Bravo, SIX runs outside off, and smacked handsomely, gloriously, over deep midwicket for a maximum! What a way to win it!;
+8.6;?;Hopes to Fletcher, no run an anticlimactic dot to finish the over ...;
+8.5;4;Hopes to Fletcher, FOUR runs stand and deliver! That was pitched up towards the blockhole, but Fletcher drove through the line, inside-out, and two bounces into the extra cover advertising hoardings!;
+8.4;1;Hopes to Bravo, 1 run pulled out to midwicket. West Indies are all but home and hosed;
+8.3;4;Hopes to Bravo, FOUR runs up and over the covers handsomely! That was in the slot for the shot, and he went for it well!;
+8.2;1lb;Hopes to Fletcher, 1 leg bye hit in the groin, but an instant call for the single. Hopes fields well in his followthrough, but Bravo is safely home;
+8.1;1;Hopes to Bravo, 1 run jabbed down to third man, singles all over the place now;
+7.6;1;Johnson to Bravo, 1 run short, banged in towards the gloves, an attempted single is turned down, but they claim one for the rebound as the shy hits the stumps from the gully;
+7.5;1;Johnson to Fletcher, 1 run full length but outside off, guided to third man for another single;
+7.4;1;Johnson to Bravo, 1 run guided to third man for an intelligent single. West Indies are ahead of the rate this over;
+7.3;6;Johnson to Bravo, SIX runs remarkable shot! That was a violent outside edge, one hand came off the bat as well, but the ball cleared Brett Lee at third man by a distance;
+7.2;1;Johnson to Fletcher, 1 run off the mark with a leg-side single;
+7.1;?;Johnson to Fletcher, no run a swing and a miss. Good ball, angling across the right hander;
+6.6;?;White to Bravo, no run a fuller length, and it almost sneaks through. Either way, it's a dot ball;
+6.5;?;White to Bravo, no run better ball. Defended into the covers;
+6.4;6;White to Bravo, SIX runs short, and slapped handsomely over backward square. A rank long-hop, to be honest;
+6.3;2b;White to Bravo, 2 byes a beautiful delivery, at last, but it deceives everyone, not least the keeper. Extras are keeping West Indies in the hunt in this over;
+6.2;?;White to Bravo, no run drilled out to point;
+6.2;1w;White to Bravo, 1 wide another one slides down leg. Not what the skipper ordered;
+6.2;1w;White to Bravo, 1 wide quicker ball, but misdirected;
+6.1;?;White to Bravo, no run outside off, and left well alone;
+5.6;?;Watson to Fletcher, no run another slower ball, dabbed to point, to complete a fine over;
+5.5;?;Watson to Fletcher, no run cracking delivery, in the channel outside off, and angling in as well. Fletcher is beaten;
+5.4;1;Watson to Bravo, 1 run slower ball again, and steered backward of square with a slow-motion pull;
+5.3;W;Watson to Ramdin, OUT the wickets are coming a bit readily now. Ramdin makes room to thump over cover, but Johnson makes good ground at mid-off and completes a neat low catch.;Denesh Ramdin c Johnson b Watson 8 (11m 6b 1x4 0x6) SR: 133.33;
+5.2;4;Watson to Ramdin, FOUR runs a deft steer, clean through the vacant first slip! That's the boundary they've needed. It was another slower ball, and he waited well;
+5.1;1;Watson to Bravo, 1 run on the back foot and dabbed down to the gully;
+4.6;W;Hopes to Perkins, OUT tip-and-run, and that's suicidal. Ponting dives at mid-off, and releases the ball almost before he's gathered it. Perkins goes, but he's done his job.;William Perkins run out (Ponting) 9 (32m 11b 1x4 0x6) SR: 81.81;
+4.5;1;Hopes to Ramdin, 1 run nice shot, back of a length, and dabbed down to third man;
+4.4;1;Hopes to Perkins, 1 run thumped down the ground without much timing, but another run;
+4.3;?;Hopes to Perkins, no run another dot ball, and a good one too. Good length, and a hint of nip off the pitch;
+4.2;?;Hopes to Perkins, no run short, and a swing and a miss. Ramdin comes down to have a quiet word. There's no need for that;
+4.1;1;Hopes to Ramdin, 1 run outside off and driven hard into the covers;
+3.6;1;Watson to Ramdin, 1 run slow and short, not quite a bouncer length, but Ramdin waits and thumps it down to third man;
+3.5;1;Watson to Perkins, 1 run slower ball, Perkins waits well, and clips to midwicket;
+3.4;1;Watson to Ramdin, 1 run whipped off the hip, a bit of a top edge, but it lands safe at square leg;
+3.3;W;Watson to Marshall, OUT what a pity. Marshall attempted an improvised paddle, and over-committed himself as the shot went wrong. Watson swooped to field, and threw down the stumps with the batsman stranded;Xavier Marshall run out (Watson) 36 (24m 15b 3x4 3x6) SR: 240;
+3.2;1;Watson to Perkins, 1 run back of a length and dabbed to gully. An instant run, and again the throw goes wide. Australia are under pressure;
+3.1;1;Watson to Marshall, 1 run length delivery, smacked with a golf swing to deep midwicket;
+2.6;1;Lee to Marshall, 1 run neatly tucked off the hip, and that's 17 runs off the over!;
+2.5;4;Lee to Marshall, FOUR runs gave himself room, and walloped it as hard and straight as you can imagine, all along the ground!;
+2.4;4;Lee to Marshall, FOUR runs cracked away through the off side, stunning open-shouldered strokeplay!;
+2.3;1;Lee to Perkins, 1 run down the track again, Lee responds with a low full-toss, but it's shovelled into the covers;
+2.2;1;Lee to Marshall, 1 run down the track to a length delivery, an instant call as midwicket swoops, but he fumbles and they are home;
+2.2;2w;Lee to Perkins, 2 wide another cracking stolen single. West Indies are on the ball;
+2.1;4;Lee to Perkins, FOUR runs ballsy cricket! Perkins goes down on one knee, to Lee of all bowlers, and defies all dental appointments by flicking the ball over his shoulder for four!;
+1.6;4;Johnson to Marshall, FOUR runs galloping down the track, and a chancy under-edge, but that'll do for West Indies! No fielder at fine leg, and another boundary to the cause;
+1.5;6;Johnson to Marshall, SIX runs massive! Massive! That was fetched off a good length with the most monstrous of wind-ups, and that hits the roof of the Greenidge and Haynes stand. West Indies are brawling, as a replacement ball comes out;
+1.4;1lb;Johnson to Perkins, 1 leg bye a squawked appeal, but that pitched outside leg. Another run;
+1.3;1;Johnson to Marshall, 1 run full length, and an inside-edged drive into the covers;
+1.3;3w;Johnson to Marshall, 3 wide chaotic cricket. A wide, a fumble, a cheeky run, a desperate dive, and more runs for the cause;
+1.2;6;Johnson to Marshall, SIX runs a vast strike! Clobbered high and handsome over deep midwicket. That was an open-shouldered drive, and so sweetly timed;
+1.1;4b;Johnson to Marshall, 4 byes bonus runs! Short, and climbs steeply off the deck, over the sprawling keeper and away to the boundary;
+0.6;1;Lee to Marshall, 1 run angled into the pads, and clipped away to fine leg;
+0.5;1;Lee to Perkins, 1 run advancing down the track, and pulled - not entirely convincingly - into space at midwicket. Perkins is off the mark;
+0.4;?;Lee to Perkins, no run outside off, and swinging away. Welcome to international cricket. Perkins hangs out a limp bat, but at least he survived;
+0.3;1;Lee to Marshall, 1 run fast and straight, but Perkins responds well to the call;
+0.2;?;Lee to Marshall, no run a swish and a miss this time. Too much dancing at the crease;
+0.1;6;Lee to Marshall, SIX runs that's the way to launch a run-chase! Short and aimed at the body, so Marshall swivels into a pull, and deposits Lee in the stands!;
+
+Here's Mitchell Johnson
+ Innings Start
+Australia
+West Indies
+Only T20I, Bridgetown, Jun 20 2008, Australia tour of West Indies
+97/3
+102/3
+Player of the match is Xavier Marshall, WI
+West Indies won by 7 wickets (with 11 balls remaining)

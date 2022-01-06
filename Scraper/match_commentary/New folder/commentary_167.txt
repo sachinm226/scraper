@@ -1,0 +1,78 @@
+Data
+Match State: Innings Break
+4.6;4;Laughlin to Anwar Ali, FOUR runs;
+4.6;2w;Laughlin to Anwar Ali, 2 wide;
+4.5;6;Laughlin to Anwar Ali, SIX runs;
+4.4;W;Laughlin to Sohail Khan, OUT;Sohail Khan c Hastings b Laughlin 0 (1b 0x4 0x6) SR: 0;
+4.3;6;Laughlin to Tanvir, SIX runs;
+4.2;1;Laughlin to Anwar Ali, 1 run;
+4.1;1;Laughlin to Tanvir, 1 run;
+3.6;1;Hastings to Tanvir, 1 run;
+3.6;2nb;Hastings to Tanvir, (no ball);
+3.5;6;Hastings to Tanvir, SIX runs;
+3.4;?;Hastings to Tanvir, no run;
+3.3;1;Hastings to Anwar Ali, 1 run;
+3.2;6;Hastings to Anwar Ali, SIX runs;
+3.1;6;Hastings to Hammad, SIX runs;
+2.6;6;Short to Tanvir, SIX runs;
+2.5;6;Short to Tanvir, SIX runs;
+2.4;?;Short to Tanvir, no run;
+2.3;6;Short to Tanvir, SIX runs;
+2.2;W;Short to Sahibzada Farhan, OUT;Sahibzada Farhan c ?Reardon b Short 19 (6b 0x4 3x6) SR: 316.66;
+2.1;6;Short to Sahibzada Farhan, SIX runs;
+1.6;6;Gregory to Hammad, SIX runs;
+1.5;6;Gregory to Hammad, SIX runs;
+1.4;6;Gregory to Hammad, SIX runs;
+1.3;1lb;Gregory to Sahibzada Farhan, 1 leg bye;
+1.2;6;Gregory to Sahibzada Farhan, SIX runs;
+1.2;2w;Gregory to Sahibzada Farhan, 2 wide;
+1.2;2w;Gregory to Sahibzada Farhan, 2 wide;
+1.1;1;Gregory to Hammad, 1 run;
+0.6;1;Nair to Hammad, 1 run;
+0.5;6;Nair to Hammad, SIX runs;
+0.4;4;Nair to Hammad, FOUR runs;
+0.3;1;Nair to Sahibzada Farhan, 1 run;
+0.2;6;Nair to Sahibzada Farhan, SIX runs;
+0.1;1lb;Nair to Hammad, 1 leg bye;
+
+Match State: Innings Break
+ Innings Start
+4.6;W;Sohail Khan to Short, OUT;Matthew Short c Sohail Tanvir b Sohail Khan 5 (6b 1x4 0x6) SR: 83.33;
+4.5;1;Sohail Khan to Gregory, 1 run;
+4.4;4;Sohail Khan to Gregory, FOUR runs;
+4.3;6;Sohail Khan to Gregory, SIX runs;
+4.2;1lb;Sohail Khan to Short, 1 leg bye;
+4.2;3w;Sohail Khan to Gregory, 3 wide;
+4.1;6;Sohail Khan to Gregory, SIX runs;
+3.6;W;Hammad to Hastings, OUT;John Hastings c & b Hammad Azam 14 (11b 2x4 0x6) SR: 127.27;
+3.5;1lb;Hammad to Short, 1 leg bye;
+3.4;?;Hammad to Short, no run;
+3.3;1;Hammad to Hastings, 1 run;
+3.2;1;Hammad to Short, 1 run;
+3.1;1;Hammad to Hastings, 1 run;
+2.6;4;Tanvir to Short, FOUR runs;
+2.5;W;Tanvir to Reardon, OUT;Nathan Reardon lbw b Sohail Tanvir 30 (9b 3x4 3x6) SR: 333.33;
+2.4;4;Tanvir to Reardon, FOUR runs;
+2.4;2w;Tanvir to Reardon, 2 wide;
+2.3;?;Tanvir to Reardon, no run;
+2.2;4;Tanvir to Reardon, FOUR runs;
+2.1;1;Tanvir to Hastings, 1 run;
+1.6;?;Anwar Ali to Reardon, no run;
+1.5;6;Anwar Ali to Reardon, SIX runs;
+1.4;6;Anwar Ali to Reardon, SIX runs;
+1.3;4;Anwar Ali to Reardon, FOUR runs;
+1.2;6;Anwar Ali to Reardon, SIX runs;
+1.1;1lb;Anwar Ali to Hastings, 1 leg bye;
+0.6;1;Sami to Hastings, 1 run;
+0.6;2w;Sami to Hastings, 2 wide;
+0.5;4;Sami to Hastings, FOUR runs;
+0.4;4;Sami to Hastings, FOUR runs;
+0.3;?;Sami to Hastings, no run;
+0.2;4lb;Sami to Hastings, 4 leg byes;
+0.1;2;Sami to Hastings, 2 runs;
+
+ Innings Start
+2nd Semi-Final, Kowloon, Oct 29 2017, Hong Kong World Sixes
+115/2
+80/3
+Player of the match is 

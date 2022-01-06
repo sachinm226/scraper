@@ -1,0 +1,75 @@
+Data
+4.6;6;Laughlin to Cachopa, SIX runs;
+4.5;1lb;Laughlin to Herd, 1 leg bye;
+4.4;1;Laughlin to Cachopa, 1 run;
+4.3;1;Laughlin to Herd, 1 run;
+4.2;1;Laughlin to Cachopa, 1 run;
+4.1;6;Laughlin to Cachopa, SIX runs;
+4.1;3nb;Laughlin to Herd, (no ball) 1 run;
+3.6;6;Gregory to Beghin, SIX runs;
+3.5;?;Gregory to Beghin, no run;
+3.4;6;Gregory to Beghin, SIX runs;
+3.3;1lb;Gregory to Herd, 1 leg bye;
+3.2;6;Gregory to Herd, SIX runs;
+3.1;6;Gregory to Herd, SIX runs;
+2.6;6;Short to Beghin, SIX runs;
+2.5;1;Short to Herd, 1 run;
+2.4;4;Short to Herd, FOUR runs;
+2.3;?;Short to Herd, no run;
+2.2;1;Short to Beghin, 1 run;
+2.1;6;Short to Beghin, SIX runs;
+1.6;6;Hastings to Herd, SIX runs;
+1.6;8nb;Hastings to Hira, (no ball) SIX runs;
+1.5;?;Hastings to Hira, no run;
+1.4;6;Hastings to Hira, SIX runs;
+1.3;4b;Hastings to Hira, 4 byes;
+1.2;1;Hastings to Beghin, 1 run;
+1.1;6;Hastings to Beghin, SIX runs;
+0.6;6;Nair to Hira, SIX runs;
+0.5;4;Nair to Hira, FOUR runs;
+0.4;?;Nair to Hira, no run;
+0.3;6;Nair to Hira, SIX runs;
+0.3;2w;Nair to Hira, 2 wide;
+0.2;6;Nair to Hira, SIX runs;
+0.2;6w;Nair to Hira, 6 wide;
+0.1;1;Nair to Beghin, 1 run;
+
+ Innings Start
+4.6;6;Herd to Nair, SIX runs;
+4.5;6;Herd to Nair, SIX runs;
+4.4;1lb;Herd to Gregory, 1 leg bye;
+4.3;1;Herd to Nair, 1 run;
+4.2;6;Herd to Nair, SIX runs;
+4.1;6;Herd to Nair, SIX runs;
+3.6;4;Stewart to Gregory, FOUR runs;
+3.5;6;Stewart to Gregory, SIX runs;
+3.4;6;Stewart to Gregory, SIX runs;
+3.3;1;Stewart to Nair, 1 run;
+3.2;6;Stewart to Short, SIX runs;
+3.1;?;Stewart to Short, no run;
+2.6;1;Fulton to Short, 1 run;
+2.5;1;Fulton to Gregory, 1 run;
+2.4;6;Fulton to Gregory, SIX runs;
+2.3;1;Fulton to Short, 1 run;
+2.2;6;Fulton to Short, SIX runs;
+2.1;6;Fulton to Short, SIX runs;
+1.6;6;Beghin to Reardon, SIX runs;
+1.6;2w;Beghin to Reardon, 2 wide;
+1.5;6;Beghin to Reardon, SIX runs;
+1.4;1;Beghin to Short, 1 run;
+1.3;1;Beghin to Reardon, 1 run;
+1.2;6;Beghin to Reardon, SIX runs;
+1.1;6;Beghin to Reardon, SIX runs;
+0.6;4;Hira to Short, FOUR runs;
+0.5;1;Hira to Reardon, 1 run;
+0.4;?;Hira to Reardon, no run;
+0.3;6;Hira to Reardon, SIX runs;
+0.3;3nb;Hira to Short, (no ball) 1 run;
+0.2;6;Hira to Short, SIX runs;
+0.1;W;Hira to Hastings, OUT;John Hastings b Hira 0 (1b 0x4 0x6) SR: 0;
+
+ Innings Start
+3rd place Play-off, Kowloon, Oct 29 2017, Hong Kong World Sixes
+124/0
+118/1
+Player of the match is 

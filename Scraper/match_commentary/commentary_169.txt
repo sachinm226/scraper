@@ -1,0 +1,65 @@
+Data
+4.6;2;Laughlin to Fulton, 2 runs;
+4.5;1;Laughlin to Cachopa, 1 run;
+4.5;3w;Laughlin to Fulton, 3 wide;
+4.4;4;Laughlin to Fulton, FOUR runs;
+4.3;4;Laughlin to Fulton, FOUR runs;
+4.2;6;Laughlin to Fulton, SIX runs;
+4.1;6;Laughlin to Fulton, SIX runs;
+3.6;W;Hastings to Stewart, OUT;Shanan Stewart c & b Hastings 17 (5b 1x4 2x6) SR: 340;
+3.5;6;Hastings to Stewart, SIX runs;
+3.4;1;Hastings to Cachopa, 1 run;
+3.3;1;Hastings to Stewart, 1 run;
+3.2;4;Hastings to Stewart, FOUR runs;
+3.1;6;Hastings to Stewart, SIX runs;
+2.6;W;Gregory to Herd, OUT;Ell Herd c Hastings b Gregory 1 (2b 0x4 0x6) SR: 50;
+2.5;1;Gregory to Cachopa, 1 run;
+2.4;?;Gregory to Cachopa, no run;
+2.3;1;Gregory to Herd, 1 run;
+2.2;W;Gregory to Hira, OUT;Ronnie Hira c ?Short b Gregory 13 (5b 0x4 2x6) SR: 260;
+2.1;6;Gregory to Hira, SIX runs;
+1.6;6;Reardon to Beghin, SIX runs;
+1.5;4;Reardon to Beghin, FOUR runs;
+1.4;4;Reardon to Beghin, FOUR runs;
+1.3;4;Reardon to Beghin, FOUR runs;
+1.2;1lb;Reardon to Hira, 1 leg bye;
+1.1;6;Reardon to Hira, SIX runs;
+0.6;4;Nair to Beghin, FOUR runs;
+0.5;4;Nair to Beghin, FOUR runs;
+0.4;1;Nair to Hira, 1 run;
+0.3;1;Nair to Beghin, 1 run;
+0.2;?;Nair to Beghin, no run;
+0.1;4;Nair to Beghin, FOUR runs;
+
+ Innings Start
+3.5;6;Beghin to Short, SIX runs;
+3.4;6;Beghin to Short, SIX runs;
+3.3;6;Beghin to Short, SIX runs;
+3.2;6;Beghin to Short, SIX runs;
+3.1;1lb;Beghin to Reardon, 1 leg bye;
+2.6;?;Herd to Short, no run;
+2.5;1;Herd to Reardon, 1 run;
+2.5;2w;Herd to Reardon, 2 wide;
+2.4;6;Herd to Reardon, SIX runs;
+2.3;4;Herd to Reardon, FOUR runs;
+2.2;?;Herd to Reardon, no run;
+2.1;4;Herd to Reardon, FOUR runs;
+1.6;6;Stewart to Short, SIX runs;
+1.5;6;Stewart to Short, SIX runs;
+1.4;4;Stewart to Hastings, FOUR runs;
+1.3;4;Stewart to Hastings, FOUR runs;
+1.2;6;Stewart to Hastings, SIX runs;
+1.1;6;Stewart to Hastings, SIX runs;
+0.6;6;Hira to Reardon, SIX runs;
+0.5;?;Hira to Reardon, no run;
+0.4;?;Hira to Reardon, no run;
+0.4;2w;Hira to Reardon, 2 wide;
+0.3;1;Hira to Hastings, 1 run;
+0.2;6;Hira to Hastings, SIX runs;
+0.1;6;Hira to Hastings, SIX runs;
+
+ Innings Start
+12th match, Group B, Kowloon, Oct 28 2017, Hong Kong World Sixes
+91/3
+95/0
+Player of the match is 
